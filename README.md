@@ -46,7 +46,7 @@
     end (while loop)
 
 
-<hr>
+
 <h2>Sample Graph I</h2>
 <hr>
 
